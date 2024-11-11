@@ -1,4 +1,4 @@
-package io.github.tms.tms;
+package io.github.tms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
